@@ -2,7 +2,7 @@
 description: Budapest, September 25-27, 2017
 ---
 
-# 19th International ISTVS Conference
+# 19th International & 14th European-African Regional Conference of the ISTVS
 
 ![](http://istvs2017.hu/wp-content/uploads/2016/07/Prof\_Dr\_Kiss\_Peter.jpg)****
 
