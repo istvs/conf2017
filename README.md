@@ -6,7 +6,7 @@ description: Budapest, September 25-27, 2017
 
 ![](http://istvs2017.hu/wp-content/uploads/2016/07/Prof\_Dr\_Kiss\_Peter.jpg)****
 
-**Ladies and Gentlemen**,
+**Ladies and Gentlemen,**&#x20;
 
 I welcome you on the occasion of the _**19th International & 14th European-African Regional Conference of the ISTVS**_, to be held in Budapest, capital of Hungary, in 2017.
 
