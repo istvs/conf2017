@@ -11,3 +11,5 @@
 ### Venue of the conference program
 
 ![aquaworld\_conference\_room1](http://istvs2017.hu/wp-content/uploads/2016/12/aquaworld\_conference\_room1.jpg) ![aquaworld\_conference\_room2](http://istvs2017.hu/wp-content/uploads/2016/12/aquaworld\_conference\_room2.jpg) ![aquaworld\_conference\_room3](http://istvs2017.hu/wp-content/uploads/2016/12/aquaworld\_conference\_room3.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/12/aquaworld\_conference\_room4.jpg)
+
+<figure><img src="../.gitbook/assets/conference program.png" alt=""><figcaption></figcaption></figure>

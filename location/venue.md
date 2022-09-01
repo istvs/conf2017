@@ -55,3 +55,5 @@ Hotel accepts the following credit card types: VISA, American Express, Eurocard 
 60 days before the arrival (24.07.2017) the cancellation is free of charge, otherwise one night accommodation will be charged.
 
 ![](http://istvs2017.hu/wp-content/uploads/2016/07/Spa18-300x200.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/Rooms01-300x200.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/Resort06-300x201.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/20111013-183438\_aquaworld\_logo-300x200.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/815\_maxi-300x200.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/24\_maxi-300x200.jpg)
+
+<figure><img src="../.gitbook/assets/venue conference hotel.png" alt=""><figcaption></figcaption></figure>

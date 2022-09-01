@@ -24,3 +24,5 @@
 * Dr. Vantsevich, Vladimir V. (USA), **Session Chair, Paper Reviewer** – vantsevi \[at] uab \[dot] edu
 * Dr. Wasterlund, Iwan (Sweden), **Paper Reviewer** – iwanolasgarden \[at] telia \[dot] com
 * Dr. Yamakawa, Junya (Japan), **Session Chair, Paper Reviewer** – yamakawa \[at] nda \[dot] ac \[dot] jp
+
+<figure><img src="../.gitbook/assets/scientific committee.png" alt=""><figcaption></figcaption></figure>

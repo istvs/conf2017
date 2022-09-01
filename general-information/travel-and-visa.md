@@ -34,3 +34,5 @@ Hungary joined the European Union on 1 May 2004. Since that date Hungary has ado
 ### Visa Information for Hungary
 
 Hungary is part of the Schengen Area. Citizens of non-Schengen countries should check whether visa is needed for them when entering Hungary (for more information please visit the home page of the [Ministry for Foreign Affairs of Hungary](http://konzuliszolgalat.kormany.hu/en)). On request, the Organizing Committee will issue invitation letters for visa applications. Please apply in due time for a visa if necessary. Please indicate during the registration if you need a personal invitation to attend the conference. It is important to note that a visa is only a preliminary permission for entry, which does not authorise its bearer automatically to enter the country. It is your responsibility to get the Visa. We cannot help other than issuing a Visa invitation letter. We will never contact an embassy or consulat to help you get the Visa.
+
+<figure><img src="../.gitbook/assets/travel.png" alt=""><figcaption></figcaption></figure>

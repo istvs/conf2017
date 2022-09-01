@@ -41,3 +41,5 @@ You may review the status of your payments at any time after logging in [ISTVS 2
 
 **Notification**\
 We do NOT accept Western Union payments.
+
+<figure><img src="../.gitbook/assets/payment information.png" alt=""><figcaption></figcaption></figure>

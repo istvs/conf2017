@@ -10,3 +10,5 @@
 * Kurjak, Zoltan
 * Mago, Laszlo
 * Orsos, Mario
+
+<figure><img src="../.gitbook/assets/technical committee.png" alt=""><figcaption></figcaption></figure>

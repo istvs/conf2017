@@ -19,3 +19,5 @@ Every day free shuttle service is available from the Centre (Heroes’ Square, i
 Bus runs daily from the Keleti Railway Station to the Aquaworld Resort Hotel. The timetable can be found on the following website: [BKK.hu](http://www.bkk.hu/en/timetables/#230)
 
 {% embed url="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10761.370741837143!2d19.106439259015872!3d47.60002594133667!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x548a16a2efd67fe7!2sAquaworld+Resort+Budapest!5e0!3m2!1sen!2sus!4v1470743894616" %}
+
+<figure><img src="../.gitbook/assets/transport.png" alt=""><figcaption></figcaption></figure>
