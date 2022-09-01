@@ -32,3 +32,5 @@ To make a submission: Use the “[Submission](https://www.conftool.net/istvs2017
 **Prof. Peter Kiss**\
 President of the ISTVS\
 Conference Chair
+
+<figure><img src="../.gitbook/assets/call for papers.png" alt=""><figcaption></figcaption></figure>

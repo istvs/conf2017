@@ -35,28 +35,7 @@ Conference Chair
 * **Mobile robotics for ground applications, planet exploration and other environments**
 * **Innovative system designs for terrain and road-vehicle applications**
 
-### Topics of ISTVS 2017
+<figure><img src=".gitbook/assets/home.png" alt=""><figcaption></figcaption></figure>
 
-Terramechanics, terrain/soil-wheel/tire/track interaction, modeling and characterization
 
-Terramechanics
 
-Advances in mobility, energy transfer, efficiency, ground vehicle dynamics, safety
-
-Mobility & Dynamics
-
-Land locomotion, off-road and military vehicles, operation snow and ice
-
-Off-Road & Military
-
-Agricultural, forestry, construction, and mining equipment and vehicles
-
-Agriculture
-
-Mobile robotics for ground applications, planet exploration and other environments
-
-Robotics
-
-Innovative system designs for terrain and road-vehicle applications
-
-Innovative Designs
