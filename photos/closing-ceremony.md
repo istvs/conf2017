@@ -1,3 +1,3 @@
 # Closing ceremony
 
-{% embed url="https://cloud.djinna.com/wbuQrGKd" %}
+<figure><img src="../.gitbook/assets/photos - closing ceremony.png" alt=""><figcaption></figcaption></figure>
