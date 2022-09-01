@@ -6,7 +6,7 @@
   * [Templates](general-information/templates.md)
   * [Travel & Visa](general-information/travel-and-visa.md)
   * [Payment Information](general-information/payment-information.md)
-  * [Practical Details](general-information/practical-details.md)
+  * [Practical Details](general-information/practical-information.md)
 * [Committee](committee/README.md)
   * [Scientific Committee](committee/scientific-committee.md)
   * [Technical Committee](committee/technical-committee.md)

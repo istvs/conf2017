@@ -1,6 +1,6 @@
 # Technical Tour
 
-![](<../.gitbook/assets/technical tour.png>)The conference includes popular and valuable Technical Tour on 26th September, 2017 (Tuesday).
+![](<../.gitbook/assets/technical tour (1).png>)The conference includes popular and valuable Technical Tour on 26th September, 2017 (Tuesday).
 
 #### Tentative programme
 
@@ -29,7 +29,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/technical tour (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/technical tour.png" alt=""><figcaption></figcaption></figure>
 
 
 
