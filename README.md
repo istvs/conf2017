@@ -1,5 +1,7 @@
 ---
 description: Budapest, September 25-27, 2017
+cover: .gitbook/assets/5169471_14135eeb36_b_uprezzed@2x.jpg
+coverY: 0
 ---
 
 # 19th International & 14th European-African Regional Conference of the ISTVS
