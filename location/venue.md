@@ -1,10 +1,13 @@
 # Venue
 
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
 ## Conference Hotel
 
 The 19th International & 14th European-African Regional Conference of the International Society for Terrain-Vehicle Systems will be held at the four-star Aquaworld Resort Budapest Hotel & Water Park, Budapest, Hungary and room reservations are available at a discounted group rate.
-
-![944\_maxi](http://istvs2017.hu/wp-content/uploads/2016/08/944\_maxi-300x200.jpg)
 
 ### Address
 
@@ -53,7 +56,5 @@ Hotel accepts the following credit card types: VISA, American Express, Eurocard 
 
 **Cancellations and no-shows:**\
 60 days before the arrival (24.07.2017) the cancellation is free of charge, otherwise one night accommodation will be charged.
-
-![](http://istvs2017.hu/wp-content/uploads/2016/07/Spa18-300x200.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/Rooms01-300x200.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/Resort06-300x201.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/20111013-183438\_aquaworld\_logo-300x200.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/815\_maxi-300x200.jpg) ![](http://istvs2017.hu/wp-content/uploads/2016/07/24\_maxi-300x200.jpg)
 
 <figure><img src="../.gitbook/assets/venue conference hotel.png" alt=""><figcaption></figcaption></figure>

@@ -1,5 +1,10 @@
 # Conference Program
 
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
 | <p><strong>Day 0</strong>:<br>Sept 24, Sunday</p>              | Registration, Board of Directors Meeting, Ice Breaker Party |
 | -------------------------------------------------------------- | ----------------------------------------------------------- |
 | <p><strong>Day 1</strong>:<br>Sept 25, Monday</p>              | Opening Ceremony, Plenary Session, Sessions                 |

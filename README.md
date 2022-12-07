@@ -7,7 +7,7 @@ coverY: 0
 # 19th International & 14th European-African Regional Conference of the ISTVS
 
 {% hint style="info" %}
-This is a conference site archive. \
+This is a conference site archive. Screenshots of the original website pages below.\
 Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
 {% endhint %}
 
@@ -31,8 +31,6 @@ Prof. Peter Kiss\
 President of the ISTVS\
 Conference Chair
 
-<figure><img src="http://istvs2017.hu/wp-content/uploads/2016/07/Prof_Dr_Kiss_Peter.jpg" alt=""><figcaption></figcaption></figure>
-
 **Main topics of the conference:**
 
 * **Terramechanics, terrain/soil-wheel/tire/track interaction, modeling and characterization**
@@ -41,40 +39,6 @@ Conference Chair
 * **Agricultural, forestry, construction, and mining equipment and vehicles**
 * **Mobile robotics for ground applications, planet exploration and other environments**
 * **Innovative system designs for terrain and road-vehicle applications**
-
-## Main Sponsors
-
-{% embed url="https://istvs2017.hu/wp-content/uploads/2017/06/MH-LK-logo.png" %}
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/06/RABA-logo-and-slogan-RGB.png" alt=""><figcaption></figcaption></figure>
-
-### Bronze Sponsors
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/05/axial_logo2.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/03/bpw.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/03/claas.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/08/dekra_logo.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/03/Energotest_future_is_already_here.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/03/ge.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/06/Haldex_logo.png" alt=""><figcaption></figcaption></figure>
-
-#### Sponsors
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/08/Currus_Logo.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/06/GAMMA_logo.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/04/GIF_logo.jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/themes/istvs/img/sponsors/sziu.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="https://istvs2017.hu/wp-content/uploads/2017/02/mta_logo.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/home.png" alt=""><figcaption></figcaption></figure>
 

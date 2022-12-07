@@ -1,5 +1,10 @@
 # Payment Information
 
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
 Payment information
 
 | **Payment and deadline information for the ISTVS 2017 Conference**                                                         |                                                                      |                                                               |              |                  |         |       |       |

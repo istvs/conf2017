@@ -1,5 +1,10 @@
 # Call for Papers
 
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
 The International Society for Terrain Vehicle Systems (ISTVS) is an educational, non-profit, and non-political organization whose mission is to promote activities that help acquire and advance knowledge of the mechanics of terrain-vehicle systems and machinery interacting with soils in all environments. All ISTVS present and past members, students, and non-member professionals in the field are cordially invited to join us in Budapest for the 19th International & 14th European-African Regional Conference of the ISTVS.
 
 Technical tracks are listed below for paper submission:

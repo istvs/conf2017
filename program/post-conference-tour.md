@@ -1,5 +1,10 @@
 # Post Conference Tour
 
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
 Two-day long Post Conference Tour will be organised on Sept 28-29, 2017. It contains guided tour in Parliament, sightseeing tour in Budapest, thermal spa visit, countryside tour (the contain of the Post Conference Tour related in Budapest not the same to the Accompanying Person Program).
 
 **Lunch, dinner, guided tour with transportation and entrance fees are included in the Post Conference Tour. Please note: accommodation is not included in the post conference tour price! Please extend your staying in the hotel until 30th of September. During the post conference tour we will leave from the Hotel Aquaworld in the morning and return in the evening both days. The ISTVS discounted room rates also available for that period.**

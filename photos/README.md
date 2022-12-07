@@ -1,5 +1,10 @@
 # Photos
 
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
 **Please select a gallery name from the left sidebar to open it.**
 
 _(Poster photos have been downsized in order to protect intellectual properties.)_

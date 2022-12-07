@@ -1,5 +1,10 @@
 # Transport
 
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
 ### By Taxi from Budapest Airport (recommended)
 
 [Főtaxi](http://www.bud.hu/english/passengers/access\_and\_parking/by\_taxi) has exclusive rights for operation of a taxi service from (and to) the airport for fixed prices according to distance zones (hence the name) based on a contract with Budapest Airport Ltd. A ride from the airport to the Aquaworld Hotel (Conference Venue) should typically cost around 12000-16000 HUF (40-55 EUR) depending on traffic conditions.

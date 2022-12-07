@@ -1,5 +1,10 @@
 # Scientific Committee
 
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
 * Dr. Ala-Ilomaki, Jari (Finland) – jari.ala-ilomaki \[at] luke \[dot] fi
 * Dr. Els, Schalk (South Africa), **Session Chair, Paper Reviewer** – schalk.els \[at] up \[dot] ac \[dot] za
 * Dr. Horvath, Bela (Hungary) – horvath.bela \[at] emk \[dot] nyme \[dot] hu

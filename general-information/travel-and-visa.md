@@ -1,5 +1,10 @@
 # Travel & Visa
 
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
 ### General Information
 
 For travel to Budapest there are several good options. The international airport of Budapest (terminals 2A, 2B) connects the city directly to some overseas and to all important European destinations. The three main railway stations (Déli, Keleti, Nyugati) are either terminations or stops of many intercity trains from west and east, south and north. There are several international coach services to Budapest. Motorists can also reach Budapest easily on the European motorway network.

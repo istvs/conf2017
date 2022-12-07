@@ -1,6 +1,11 @@
 # Technical Tour
 
-![](<../.gitbook/assets/technical tour.png>)The conference includes popular and valuable Technical Tour on 26th September, 2017 (Tuesday).
+{% hint style="info" %}
+This is a conference site archive. Screenshots of the original website pages below.\
+Conference site originally published at [https://istvs2017.hu](https://istvs2017.hu)
+{% endhint %}
+
+The conference includes popular and valuable Technical Tour on 26th September, 2017 (Tuesday).
 
 #### Tentative programme
 
@@ -12,8 +17,6 @@
    Rába vehicle demonstration\
    Komondor vehicle demonstration
 3. **Goulash party**
-
-![](http://istvs2017.hu/wp-content/uploads/2016/12/image001.jpg)
 
 {% embed url="https://istvs2017.hu/wp-content/uploads/2016/12/image003.jpg" %}
 
