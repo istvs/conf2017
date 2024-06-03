@@ -10,10 +10,10 @@ The conference includes popular and valuable Technical Tour on 26th September, 2
 #### Tentative programme
 
 1. **Visit at Rába Automotive Holding Plc. in Győr**\
-   ****Visit at Technology Centre\
+   Visit at Technology Centre\
    Factory presentation
 2. **Visit at Rába Test Ring in Écs**\
-   ****Facility introduction\
+   Facility introduction\
    Rába vehicle demonstration\
    Komondor vehicle demonstration
 3. **Goulash party**
